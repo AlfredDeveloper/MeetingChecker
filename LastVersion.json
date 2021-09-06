@@ -1,7 +1,3 @@
 {
-    "Version": "1.0.0",
-    "Release Date": "11/08/2021",
-    "PatchNotesES": "https://raw.githubusercontent.com/SpaceGamerFury/MeetingChecker/main/PatchNotesSpanish.txt",
-    "PatchNotesEN": "https://raw.githubusercontent.com/SpaceGamerFury/MeetingChecker/main/PatchNotesEnglish.txt",
-    "MicrosoftStoreLink": "ms-windows-store://pdp/?ProductId=9PG0FKFK2G9K"
+    "Version": "1.0.0"
 }

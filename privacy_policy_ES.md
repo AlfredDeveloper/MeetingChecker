@@ -1,0 +1,2 @@
+# Politica de privacidad
+### La app no recopila ningun tipo de informacion sobre ti, pero al utilizar los servicios de google, google chrome, discord entre otras librerias estos puede que recopilen informacion, para obtener mas informacion sobre como sus datos son procesados ingrese a la politica privacidad de la respectiva licencia y/o servivcios, puede encontrar las licencias que se usan en esta app [aqui.](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/Meeting-Checker-Licenses-EN.md)

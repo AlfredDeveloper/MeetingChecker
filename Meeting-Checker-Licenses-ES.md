@@ -1,5 +1,5 @@
 # Licencias
-## Estas son las licencias para las bibliotecas usadas:
+## Estas son las licencias para las librerías usadas:
 
 @discordjs/collection
 0.1.6 <https://github.com/discordjs/collection>

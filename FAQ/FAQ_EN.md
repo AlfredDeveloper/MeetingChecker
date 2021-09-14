@@ -37,29 +37,29 @@ A bot is a software program that performs automated, repetitive, or pre-defined 
 5. Paste that on the Settings menu "Discord User ID" field.
 ## DASHBOARD
 ### Update Widget
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/UpdateWidget_1.png?raw=true)
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/UpdateWidget_2.png?raw=true)
+![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ_IMAGES/FAQ_IMAGES/UpdateWidget_1_EN.png?raw=true)
+![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/UpdateWidget_2_EN.png?raw=true)
 
 This checks if there is a new update for the app available, If there is one available (#2 image) you can click over the icon to open the Microsoft Store app page to update it.
 ### Bot Status Widget
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/BotStatusWidget_1.png?raw=true)
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/BotStatusWidget_2.png?raw=true)
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/BotStatusWidget_3.png?raw=true)
+![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_1_EN.png?raw=true)
+![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_2_EN.png?raw=true)
+![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_3_EN.png?raw=true)
 
 This tells you if the Bot is online or offline, for start the bot click over the widget.
 After you click the button in the online state it will have a 1-second delay (#3 image) before you click the button again.
 
 **You can set the meetings on the "Setup" Menu**
 ### Time For Next Check Widget
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/TimeForNextCheckWidget_1.png?raw=true)
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/TimeForNextCheckWidget_2.png?raw=true)
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/TimeForNextCheckWidget_3.png?raw=true)
+![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_1_EN.png?raw=true)
+![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_2_EN.png?raw=true)
+![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_3_EN.png?raw=true)
 
 This tells you how much time is left until the bot check again if any meeting started, it starts/stops automatically when the bot status is clicked. if you click a menu button the countdown will not be available until you click the bot status widget to stop and start again the bot.
 
 **You can set the time on the "Settings" Menu (Default 60 seconds, minimum 10 seconds)**
 ### Last Meetings Enabled Widget
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/LastMeetingsEnabledWidget_1.png?raw=true)
+![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/LastMeetingsEnabledWidget_1_EN.png?raw=true)
 
 Shows a timeline with the last activity of meetings (which meetings got enabled/disabled and the time/day) **Click the circle with the "Check Mark" or an "X" to open the meeting on your default browser**
 

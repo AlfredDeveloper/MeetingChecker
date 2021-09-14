@@ -37,7 +37,7 @@ A bot is a software program that performs automated, repetitive, or pre-defined 
 5. Paste that on the Settings menu "Discord User ID" field.
 ## DASHBOARD
 ### Update Widget
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/FAQ_IMAGES/UpdateWidget_1_EN.png?raw=true)
+![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/UpdateWidget_1_EN.png?raw=true)
 ![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/UpdateWidget_2_EN.png?raw=true)
 
 This checks if there is a new update for the app available, If there is one available (#2 image) you can click over the icon to open the Microsoft Store app page to update it.

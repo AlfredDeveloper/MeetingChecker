@@ -44,7 +44,7 @@ This checks if there is a new update for the app available, If there is one avai
 <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_3_EN.png?raw=true" width="205" height="95">
 
 This tells you if the Bot is online or offline, for start the bot click over the widget.
-After you click the button in the online state it will have a 1-second delay (#3 image) before you click the button again.
+After you click the button in the online state it will have a 1-second delay **(#3 image)** before you click the button again.
 
 **You can set the meetings on the "Setup" Menu**
 ### Time For Next Check Widget
@@ -56,6 +56,26 @@ This tells you how much time is left until the bot check again if any meeting st
 ### Last Meetings Enabled Widget
 <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/LastMeetingsEnabledWidget_1_EN.png?raw=true" width="340" height="318">
 
-Shows a timeline with the last activity of meetings (which meetings got enabled/disabled and the time/day) **Click the circle with the "Check Mark" or an "X" to open the meeting on your default browser**
+Shows a timeline with the last activity of meetings (which meetings got enabled/disabled and the time/day)
+Check Mark => Enabled
+"X" => Disabled
+**Click the circle with the "Check Mark" or an "X" to open the meeting on your default browser**
 
 **You can set the meetings on the "Setup" Menu**
+
+## MEETINGS
+
+### Meeting Status
+<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Meetings_1_EN.png?raw=true" width="95" height="205"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Meetings_2_EN.png?raw=true" width="95" height="205">
+
+The name row shows the meetings names that you set-up on the setup menu option. **(Image 2)**
+
+The status row shows if the meeting that is on the name row is Enabled or Disabled. **(Image 1)**
+Green => Enabled
+Red => Disabled
+**Click the green/red circle to open the meeting on your default browser** 
+
+## SETUP
+
+<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_3_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_4_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_5_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_6_EN.png?raw=true" width="205" height="95"> 
+

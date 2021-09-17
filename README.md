@@ -27,11 +27,9 @@
 4. Cuando no ah iniciado la reunion el URL debe incluir la palabra "whoops"
 5. Si la app no funciona deshabilite el antivirus (si no tiene antivirus deshabilite Windows Defender) el bot realiza tareas automatizadas en segundo plano para verificar sus reuniones y, a veces, algunos Antivirus (y en algunas ocasiones Windows Defender) bloquean la aplicación para que no revise las reuniones.
 
-#### Descargo de responsabilidad: tenga en cuenta que esta app NO está hecha por Google y está hecha por un desarrollador independiente. Todos los derechos de autor pertenecen a sus respectivos dueños.
-Google no respalda ni patrocina esta app para Google meet. Esto no es propiedad de, no tiene licencia de, ni es una subsidiaria de Google Inc.
+#### Descargo de responsabilidad: tenga en cuenta que esta app NO está hecha por Google y está hecha por un desarrollador independiente. Todos los derechos de autor pertenecen a sus respectivos dueños. Google no respalda ni patrocina esta app para Google meet. Esto no es propiedad de, no tiene licencia de, ni es una subsidiaria de Google Inc.
 
-#### Descargo de responsabilidad: tenga en cuenta que esta app NO está hecha por Discord y está hecha por un desarrollador independiente. Todos los derechos de autor pertenecen a sus respectivos dueños.
-Discord no respalda ni patrocina esta app para Google meet. Esto no es propiedad de, no tiene licencia de, ni es una subsidiaria de Discord Inc.
+#### Descargo de responsabilidad: tenga en cuenta que esta app NO está hecha por Discord y está hecha por un desarrollador independiente. Todos los derechos de autor pertenecen a sus respectivos dueños. Discord no respalda ni patrocina esta app para Google meet. Esto no es propiedad de, no tiene licencia de, ni es una subsidiaria de Discord Inc.
 
 ## Índice
 

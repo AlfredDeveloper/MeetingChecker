@@ -61,9 +61,9 @@ This tells you how much time is left until the bot check again if any meeting st
 <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/LastMeetingsEnabledWidget_1_EN.png?raw=true" width="340" height="318">
 
 Shows a timeline with the last activity of meetings (which meetings got enabled/disabled and the time/day)
-Check Mark => Enabled
+✔ => Enabled
 "X" => Disabled
-**Click the circle with the "Check Mark" or an "X" to open the meeting on your default browser**
+**Click the circle with the "✔" or an "X" to open the meeting on your default browser**
 
 **You can set the meetings on the "Setup" Menu**
 

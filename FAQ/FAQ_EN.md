@@ -3,7 +3,7 @@
 ### The bot is not working, How can I fix it?
 Try disabling your Antivirus (if you use windows defender try to disable it and check if it works), the bot make automated tasks in background for check your meetings and sometimes some Antivirus block the app from checking the meetings.
 ### The bot is no longer updating the meetings, How can I fix it?
-Sometimes you need to verify your google credentials to continue using the bot, verify them go to the settings menu, and click "Reload Account" a new window will be opened sign in to your account there to verify it after you finish close the window.
+Sometimes you need to verify your google credentials to continue using the bot, verify them go to the settings menu, and click "Load Account" a new window will be opened sign in to your account there to verify it after you finish close the window.
 ### What is a Discord DM?
 It is a message that the bot sends you through Discord, DM means (Direct Message)
 ### Can I sign in to more than 1 account?

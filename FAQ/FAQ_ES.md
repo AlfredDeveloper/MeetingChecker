@@ -1,66 +1,106 @@
-# FAQ
-## QUESTIONS
-### The bot is no longer updating the meetings, How can i fix it?
-Sometimes you need to verify your google credentials for continue using the bot, verify them go to settings menu and click "Reload Account" a new window will be opened sign in to your account there for verify it after you finish close the window.
-### Can i sign in to more than 1 account?
-That function is not currently supported you can only sign in to one account at the same time.
-### What is a bot?
-A bot is a software program that performs automated, repetitive or pre-defined tasks in this case checks if a meeting has started.
-### How i get my discord bot token and user id for enable Discord DM?
-#### Discord Bot Token
-1. Make sure you’re logged on to the [Discord Website](https://discord.com/).
-2. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
-3. Click on the “New Application” button.
-4. Add a name and click create.
-5. Go to the "Bot" tab.
-6. Click "Add Bot" and "Yes, Do it!".
-7. Below "Click to Reveal Token" click "Copy".
-8. Paste that on the Settings menu "Discord Bot Token" field.
+# FAQ (Preguntas Frecuentes)
+## PREGUNTAS
+### El bot no funciona, ¿cómo puedo solucionarlo?
+Intente deshabilitar su Antivirus (si usa Windows Defender, intente deshabilitarlo y verifique si funciona), el bot realiza tareas automatizadas en segundo plano para verificar sus reuniones y, a veces, algunos Antivirus bloquean la aplicación para que no revise las reuniones.
+### El bot ya no actualiza las reuniones, ¿cómo puedo solucionarlo?
+A veces necesita verificar sus credenciales de Google para continuar usando el bot, [verifíquelas] (https://discord.com/), vaya al menú de configuración y haga clic en "Recargar cuenta". Se abrirá una nueva ventana, inicie sesión en su cuenta para verificarla después de que termine de cerrar la ventana.
+### ¿Qué es un Discord DM?
+Es un mensaje que el bot te envía a través de Discord, DM significa (Mensaje directo)
+### ¿Puedo iniciar sesión en más de una cuenta?
+Actualmente, esa función no es compatible, solo puede iniciar sesión en una cuenta al mismo tiempo.
+### ¿Qué es un bot?
+Un bot es un programa de software que realiza tareas automatizadas, repetitivas o predefinidas; en este caso, comprueba si ha comenzado una reunión.
+### ¿Cómo obtengo mi token de bot de discord y mi identificación de usuario para habilitar Discord DM?
+#### Ficha de bot de discordia
+1. Asegúrese de haber iniciado sesión en el [sitio web de Discord.] (https://discord.com/)
+2. Vaya al [Portal para desarrolladores de Discord] (https://discord.com/developers/applications)
+3. Haga clic en el botón "Nueva aplicación".
+4. Agregue un nombre y haga clic en crear.
+5. Vaya a la pestaña "Bot".
+6. Haga clic en "Agregar bot" y "¡Sí, hágalo!".
+7. Debajo de "Haga clic para mostrar el token", haga clic en "Copiar".
+8. Péguelo en el campo "Discord Bot Token" del menú Configuración.
 
-**For customize the bot check de discord documentation.**
-**You need to be sharing a server with the bot**
-##### Add to server
-1. Create a Discord server. **For create a discord server check de discord documentation.**
-2. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
-3. Click the bot you created before.
-4. Go to the "OAuth2" tab.
-5. Scroll to the "SCOPES" section and check the "bot" option and click the "copy" button below the options.
-6. Paste the link on other tab for go to the site.
-7. Select the server where you want to add the bot.
-8. Click "Authorize".
-9. Resolve the hCaptcha.
-#### Discord User ID
-1. Open Discord and sign into your account.
-2. Go to Settings > Advanced (App Settings Section) > Developer Mode and enable it.
-3. In the Discord server you created, click the Users icon in the upper right corner.
-4. Right click your Discord username and select "Copy ID"
-5. Paste that on the Settings menu "Discord User ID" field.
-## DASHBOARD
-### Update Widget
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/UpdateWidget_1.png?raw=true)
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/UpdateWidget_2.png?raw=true)
+** Para personalizar el bot, verifique la documentación de la discordia. **
+** Necesitas compartir un servidor con el bot. **
+##### Agregar al servidor
+1. Crea un servidor de Discord. ** Para crear un servidor de discordia, consulte la documentación de la discordia. **
+2. Vaya al [Portal para desarrolladores de Discord] (https://discord.com/developers/applications)
+3. Haga clic en el bot que creó antes.
+4. Vaya a la pestaña "OAuth2".
+5. Desplácese hasta la sección "ALCANCE" y marque la opción "bot" y haga clic en el botón "copiar" debajo de las opciones.
+6. Pegue el enlace en la otra pestaña para ir al sitio.
+7. Seleccione el servidor donde desea agregar el bot.
+8. Haga clic en "Autorizar".
+9. Resuelva el hCaptcha.
+#### ID de usuario de Discord
+1. Abra Discord e inicie sesión en su cuenta.
+2. Vaya a Configuración> Avanzado (sección Configuración de la aplicación)> Modo de desarrollador y habilítelo.
+3. En el servidor de Discord que creó, haga clic en el icono Usuarios en la esquina superior derecha.
+4. Haga clic con el botón derecho en su nombre de usuario de Discord y seleccione "Copiar ID"
+5. Péguelo en el campo "ID de usuario de Discord" del menú Configuración.
+## TABLERO
+### Actualizar widget
+<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/UpdateWidget_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/UpdateWidget_2_EN.png?raw=true" width="205" height="95">
 
-This checks if there is a new update for the app available, If there is one available (#2 image) you can click over the icon for open the microsoft store app page for update it.
-### Bot Status Widget
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/BotStatusWidget_1.png?raw=true)
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/BotStatusWidget_2.png?raw=true)
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/BotStatusWidget_3.png?raw=true)
+Esto verifica si hay una nueva actualización disponible para la aplicación. Si hay una disponible (imagen n. ° 2), puede hacer clic en el ícono para abrir la página de la aplicación Microsoft Store y actualizarla.
+### Widget de estado del bot
+<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/BotStatusWidget_3_EN.png?raw=true" width="205" height="95">
 
-This tells you if the Bot is online or offline, for start the bot click over the widget for start the bot.
-After you click the button in online state it will have a 1 second delay (#3 image) before you click the button again.
+Esto le indica si el Bot está en línea o fuera de línea, para iniciar el bot, haga clic sobre el widget.
+Después de hacer clic en el botón en el estado en línea, tendrá un retraso de 1 segundo ** (imagen n. ° 3) ** antes de hacer clic en el botón nuevamente.
 
-**You can set the meetings on the "Setup" Menu**
-### Time For Next Check Widget
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/TimeForNextCheckWidget_1.png?raw=true)
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/TimeForNextCheckWidget_2.png?raw=true)
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/TimeForNextCheckWidget_3.png?raw=true)
+** Puede configurar las reuniones en el menú "Configuración" **
+### Hora para el siguiente widget de verificación
+<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/TimeForNextCheckWidget_3_EN.png?raw=true" width="205" height="95">
 
-This tells you how much time left until the bot check again if any meeting started, it start/stop automatically when the bot status is clicked. if you click a menu button the countdown will not be available until you click bot status widget to stop and start again the bot.
+Esto le indica cuánto tiempo queda hasta que el bot compruebe nuevamente si se inició alguna reunión, se inicia / se detiene automáticamente cuando se hace clic en el estado del bot. Si hace clic en un botón de menú, la cuenta atrás no estará disponible hasta que haga clic en el widget de estado del bot para detener y volver a iniciar el bot.
 
-**You can set the time on the "Settings" Menu (Default 60 seconds, minimum 10 seconds)**
-### Last Meetings Enabled Widget
-![alt text](https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/LastMeetingsEnabledWidget_1.png?raw=true)
+** Puede configurar el tiempo en el menú "Configuración" (predeterminado 60 segundos, mínimo 10 segundos) **
+### Widget de últimas reuniones habilitado
+<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/LastMeetingsEnabledWidget_1_EN.png?raw=true" width="340" height="318">
 
-Shows a timeline with the last activity of meetings (which meetings got enabled/disabled and the time/day) **Click the circle with the "Check Mark" or an "X" to open the meeting on your default browser**
+Muestra una línea de tiempo con la última actividad de las reuniones (qué reuniones se habilitaron / deshabilitaron y la hora / día)
+Marca de verificación => Habilitado
+"X" => Deshabilitado
+** Haga clic en el círculo con la "Marca de verificación" o una "X" para abrir la reunión en su navegador predeterminado**
 
-**You can set the meetings on the "Setup" Menu**
+** Puede configurar las reuniones en el menú "Configuración" **
+
+## REUNIONES
+
+### Estado de la reunión
+<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Meetings_1_EN.png?raw=true" width="137" height="205"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Meetings_2_EN.png?raw=true" width="137" height="205">
+
+La fila de nombre muestra los nombres de las reuniones que configuró en la opción del menú de configuración. ** (Imagen 2) **
+
+La fila de estado muestra si la reunión que está en la fila del nombre está habilitada o deshabilitada. ** (Imagen 1) **
+Verde => Habilitado
+Rojo => Deshabilitado
+** Haga clic en el círculo verde / rojo para abrir la reunión en su navegador predeterminado **
+
+## CONFIGURACIÓN
+Aquí puede configurar sus reuniones.
+
+<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_3_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_4_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_5_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Setup_6_EN.png?raw=true" width="205" height="95"> 
+
+* En la fila "Nombre de la reunión", escriba el nombre de la reunión ** (puede ser cualquier nombre). **
+* En la fila "Código de reunión", escribe tu código de reunión ** (Puedes encontrarlo en Google Classroom debajo del nombre de la clase en "Enlace de Meet") Si el enlace es https://meet.google.com/lookup/dkuy9slrpr escribe dkuy9slrpr en la fila del código de la reunión. **
+* En la fila "Color" puedes elegir cualquier color ** (Este color aparecerá en el lado izquierdo del mensaje de Discord y será el color del [Widget de Last Meetings Enabled](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_EN.md#last-meetings-enabled-widget)).**
+* Si hace clic en el botón Eliminar, eliminará la reunión de su fila.
+* Para agregar otra reunión, haga clic en el botón "Agregar reunión".
+* Para guardar todos los cambios, haga clic en el botón "Guardar", cierre la aplicación y vuelva a iniciarla.
+
+## AJUSTES
+Aquí puede cambiar la configuración de la aplicación
+
+<img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_1_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_2_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_3_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_4_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_5_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_6_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_7_EN.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_8_EN.png?raw=true" width="205" height="95"> 
+
+* En la sección "Tiempo entre comprobaciones (segundos)", escriba los segundos que desea que el bot espere hasta que vuelva a comprobar si comenzó alguna reunión, ** mínimo: 60 segundos **.
+* En la sección "Idioma" puede elegir qué idioma desea ver en la aplicación y el DM de discord ** actualmente solo se admiten inglés y español. **
+* En la sección "Minimizar a la bandeja del sistema", puede elegir si desea minimizar la aplicación en la barra de tareas ** (cuando está deshabilitada) ** o en la bandeja del sistema ** (cuando está habilitada, si desea abrir la aplicación nuevamente, haga clic en el icono de la bandeja del sistema) ** haga clic en el cuadro blanco para habilitar / deshabilitar la opción.
+* En la sección "Discord DM" puede elegir si desea permitir que el bot le envíe un mensaje a través de Discord cuando comience una reunión ** (cuando esté habilitado) ** o solo mostrarlo en la opción de menú Tablero y Reuniones ** (Cuando está deshabilitado) ** haga clic en el cuadro blanco para habilitar / deshabilitar la opción.
+* En la sección "Discord Bot Token", escribe el bot token que obtienes [Aquí.](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_EN.md#discord-bot-token)
+* En la sección "ID de usuario de Discord", escribe el token de bot que obtienes [Aquí.](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_EN.md#discord-user-id)
+* Para guardar todos los cambios, haga clic en "Guardar configuración". y cierre la aplicación y vuelva a iniciarla.
+* Para iniciar sesión en su cuenta de Google, haga clic en el botón "Cargar cuenta" y se abrirá un navegador cromado para que pueda iniciar sesión o verificar su contraseña. 

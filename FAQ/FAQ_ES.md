@@ -3,7 +3,7 @@
 ### El bot no funciona, ¿cómo puedo solucionarlo?
 Intente deshabilitar su Antivirus (si usa Windows Defender, intente deshabilitarlo y verifique si funciona), el bot realiza tareas automatizadas en segundo plano para verificar sus reuniones y, a veces, algunos Antivirus bloquean la aplicación para que no revise las reuniones.
 ### El bot ya no actualiza las reuniones, ¿cómo puedo solucionarlo?
-A veces necesita verificar sus credenciales de Google para continuar usando el bot, [verifíquelas](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_ES.md#ajustes), vaya al menú de configuración y haga clic en “Ingresar cuenta”. Se abrirá una nueva ventana, inicie sesión en su cuenta para verificarla después de que termine de cerrar la ventana.
+A veces necesita verificar sus credenciales de Google para continuar usando el bot, [verifíquelas](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_ES.md#preferencias), vaya al menú de configuración y haga clic en “Ingresar cuenta”. Se abrirá una nueva ventana, inicie sesión en su cuenta para verificarla después de que termine de cerrar la ventana.
 ### ¿Qué es un Discord MD?
 Es un mensaje que el bot le envía a través de Discord, MD significa (Mensaje directo)
 ### ¿Puedo iniciar sesión en más de una cuenta?
@@ -88,7 +88,7 @@ Aquí puede Establecer sus reuniones.
 
 * En la fila “Nombre de la reunión”, escriba el nombre de la reunión **(puede ser cualquier nombre).**
 * En la fila “Código de reunión”, escribe tu código de reunión **(Puedes encontrarlo en Google Classroom debajo del nombre de la clase en “Enlace de Meet”) Si el enlace es https://meet.google.com/lookup/dkuy9slrpr escribe dkuy9slrpr en la fila del código de la reunión.**
-* En la fila “Color” puedes elegir cualquier color **(Este color aparecerá en el lado izquierdo del mensaje de Discord y será el color del [Widget de Historial de reuniones](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_ES.md#widget-de-%C3%BAltimas-reuniones-habilitado)).**
+* En la fila “Color” puedes elegir cualquier color **(Este color aparecerá en el lado izquierdo del mensaje de Discord y será el color del [Widget de Historial de reuniones](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_ES.md#widget-del-historial-de-reuniones)).**
 * Si hace clic en el botón Eliminar, eliminará la reunión de su fila.
 * Para agregar otra reunión, haga clic en el botón “Añadir reunión”.
 * Para guardar todos los cambios, haga clic en el botón “Guardar”, cierre la aplicación y vuelva a iniciarla.
@@ -102,7 +102,7 @@ Aquí puede cambiar las preferencias de la aplicación
 * En la sección “Idioma” puede elegir qué idioma desea ver en la aplicación y el DM de discord **actualmente solo se admiten inglés y español.**
 * En la sección “Minimizar en bandeja del sistema”, puede elegir si desea minimizar la aplicación en la barra de tareas **(cuando está deshabilitada)** o en la bandeja del sistema **(cuando está habilitada, si desea abrir la aplicación nuevamente, haga clic en el icono de la bandeja del sistema)** haga clic en el cuadro blanco para habilitar/deshabilitar la opción.
 * En la sección “Discord MD” puede elegir si desea permitir que el bot le envíe un mensaje a través de Discord cuando comience una reunión **(cuando esté habilitado)** o solo mostrarlo en la opción de menú Inicio y Reuniones **(Cuando está deshabilitado)** haga clic en el cuadro blanco para habilitar / deshabilitar la opción.
-* En la sección “Token del bot de Discord”, escribe el bot token que obtienes [Aquí.](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_ES.md#ficha-de-bot-de-discordia)
+* En la sección “Token del bot de Discord”, escribe el bot token que obtienes [Aquí.](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_ES.md#token-del-bot-de-discord)
 * En la sección “ID de usuario de Discord”, escribe el token de bot que obtienes [Aquí.](https://github.com/AlfredDeveloper/MeetingChecker/blob/main/FAQ/FAQ_ES.md#id-de-usuario-de-discord)
 * Para guardar todos los cambios, haga clic en “¡Guardar preferencias!”. Y cierre la aplicación y vuelva a iniciarla.
 * Para iniciar sesión en su cuenta de Google, haga clic en el botón “Ingresar cuenta” y se abrirá una ventana de chromium para que pueda iniciar sesión o verificar su contraseña. 

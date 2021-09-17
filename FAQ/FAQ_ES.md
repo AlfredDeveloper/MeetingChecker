@@ -93,7 +93,7 @@ Aquí puede Establecer sus reuniones.
 * Para agregar otra reunión, haga clic en el botón “Añadir reunión”.
 * Para guardar todos los cambios, haga clic en el botón “Guardar”, cierre la aplicación y vuelva a iniciarla.
 
-## AJUSTES
+## Preferencias
 Aquí puede cambiar las preferencias de la aplicación
 
 <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_1_ES.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_2_ES.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_3_ES.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_4_ES.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_5_ES.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_6_ES.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_7_ES.png?raw=true" width="205" height="95"> <img src="https://github.com/SpaceGamerFury/MeetingChecker/blob/main/FAQ/FAQ_IMAGES/Settings_8_ES.png?raw=true" width="205" height="95"> 
